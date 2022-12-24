@@ -1,0 +1,5 @@
+- 👋 Hi, I’m LIYI
+- 👀 I’m interested in programming and writing
+- 🌱 I’m currently learning how to live gracefully
+- 💞️ I’m looking to collaborate on computer teaching
+- 📫 How to reach me？See [https://yishulun.com/about.html](https://yishulun.com/about.html)
