@@ -1,7 +1,7 @@
 ![大封面](https://github.com/rixingyike/rixingyike/assets/3161864/8ae7e18a-18a4-4e0b-b70f-4b0cf7fd6750)
 
-- 🕵️‍♀️ 熟悉 Linux/Mac/Windows 系统开关机，精通 Go/JS/Rust/Python/C 等高级编程语言 Hello World 程序编写，擅长 Git push/pull 操作，了解浏览器/小程序/React/Vue/Tailwind/Webpack/Vite 等底层工作原理的名称书写。
-- 📫 我的博客：https://yishulun.com
+- 📒 Engineer with 20 years of experience, novelist, and independent hacker. Loves coding, writing, creating, and exploring culture and tech.
+- 📫 My blog：https://yishulun.com
 
 ## 出版物
 
