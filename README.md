@@ -1,7 +1,6 @@
 ![大封面](https://github.com/rixingyike/rixingyike/assets/3161864/8ae7e18a-18a4-4e0b-b70f-4b0cf7fd6750)
 
-- 📒 Engineer with 20 years of experience, novelist, and independent hacker. Loves coding, writing, creating, and exploring culture and tech.
-- 📫 My blog：https://yishulun.com
+简介：大学计算机讲师，著有《小程序从0到1》《微信小游戏开发》等书，是腾讯云最具价值专家（TVP），微信学堂《小程序性能优化实践》讲师、极客时间《微信小程序全栈开发实战》讲师，一汽大众等国企内训讲师等。博客：艺述论。
 
 ## 出版物
 
