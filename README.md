@@ -1,6 +1,6 @@
 ![封面](https://github.com/rixingyike/rixingyike/assets/3161864/8ae7e18a-18a4-4e0b-b70f-4b0cf7fd6750)
 
-## 出版作者
+## 出版
 
 ![image](https://github.com/rixingyike/rixingyike/assets/3161864/c1066e6f-ba8a-4418-8577-17c109d8a06d)
 
